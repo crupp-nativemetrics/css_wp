@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* UPGRADE YOUR KITCHEN */
+#post-5702 h1, h2 {
+	font-size: 14px;
+}
+#post-5702 p {
+	font-size: 13px;
+	margin: 0;
+	line-height: normal;
+}
+#post-5702 ol li {
+	line-height: normal;
+	margin-bottom: 10px;
+}
+
+#post-5702 .byline {
+	margin: 15px;
+}
