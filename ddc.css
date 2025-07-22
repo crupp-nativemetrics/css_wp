@@ -19,3 +19,18 @@
 #post-5702 .byline {
 	margin: 15px;
 }
+
+/*RENT TO OWN POOLS */
+#post-5711 h1, h2 {
+	font-size:14px !important;
+	margin-left:0px !important;
+}
+#post-5711 p {
+	font-size: 13px;
+	margin: 0;
+	line-height: normal;
+}
+#post-5711 ol li {
+	line-height: normal;
+	margin-bottom: 10px;
+}
