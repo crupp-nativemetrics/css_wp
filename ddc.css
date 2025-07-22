@@ -4,7 +4,7 @@
 /* UPGRADE YOUR KITCHEN */
 #post-5702 h1, h2 {
 	font-size: 14px;
-	margin-left:0px;
+	margin-left:0px !important;
 }
 #post-5702 p {
 	font-size: 13px;
