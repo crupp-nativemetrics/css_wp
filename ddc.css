@@ -2,7 +2,10 @@
 /* CSS Document */
 
 /* UPGRADE YOUR KITCHEN */
-#post-5702 h1, h2 {
+#post-5702 h1 {
+	font-size: 14px;
+}
+#post-5702 h2 {
 	font-size: 14px;
 	margin-left:0px !important;
 }
