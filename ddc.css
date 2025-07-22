@@ -1,44 +1,33 @@
 @charset "UTF-8";
 /* CSS Document */
 
-/* UPGRADE YOUR KITCHEN */
-#post-5702 h1 {
-	font-size: 14px;
+/* ALL ARTICLES */
+h1 {
+	font-size: 15px;
 }
-#post-5702 h2 {
+h2 {
 	font-size: 14px;
 	margin-left:0px !important;
 }
-#post-5702 p {
+p {
 	font-size: 13px;
 	margin: 0;
 	line-height: normal;
 }
+.byline {
+	margin: 15px;
+}
+
+/* UPGRADE YOUR KITCHEN */
 #post-5702 ol li {
 	line-height: normal;
 	margin-bottom: 10px;
 }
 
-#post-5702 .byline {
-	margin: 15px;
-}
-
 /*RENT TO OWN POOLS */
-#post-5711 h1, h2 {
-	font-size:14px !important;
-	margin-left:0px !important;
-}
-#post-5711 p {
-	font-size: 13px;
-	margin: 0;
-	line-height: normal;
-}
 #post-5711 ol li {
 	line-height: normal;
 	margin-bottom: 10px;
-}
-#post-5711 .byline {
-	margin: 15px;
 }
 #post-5711 a { 
 	color: #F3DE8A !important;
